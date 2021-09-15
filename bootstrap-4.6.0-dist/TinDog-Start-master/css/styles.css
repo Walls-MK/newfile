@@ -1,0 +1,167 @@
+
+#title {
+    background-color: #ff4c68;
+    
+}
+
+h1 {
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: aliceblue;
+    font-weight: 900;
+}
+
+.download-btn {
+    margin: 5% 3% 5% 0;
+}
+
+.download-btn2 {
+    margin: 5% 1% 5% 0;
+}
+
+.container-fluid {
+    padding: 3% 15% 10%;
+}
+
+.navbar-brand {
+    font-size: 2.5rem;
+    padding-bottom: 50px;
+    font-family: ubuntu;
+    font-weight: 700;
+}
+
+.navbar-nav {
+    padding: 0 0 4.5rem;
+}
+
+.nav-item {
+    padding: 0 15px;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.img1 {
+    width: 25%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 25%;
+    
+}
+
+body {
+    font-family: Montserrat;
+}
+
+.ctc-1 {
+    color: #ef8172;
+}
+
+.ctc-1:hover {
+    color: #ff4c68;
+}
+
+#features {
+    font-family: Montserrat-Bold;
+    padding: 7% 15%;
+    font-weight: bold;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+
+.p1 {
+    color: #8f8f8f;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 4%;
+}
+
+h3 {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#testimonials {
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+    font-family: Montserrat-Bold;
+    font-weight: 900;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.dog1 {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+    text-align: center;
+}
+
+.press-img {
+    width: 15%;
+    margin: 0 20px 50px;
+}
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.padding-coloumn {
+    padding: 3% 2%;
+    font-family: Montserrat-Bold;   
+}
+
+h2 {
+    font-size: 250%;
+}
+
+@media (max-width: 1110px) {
+
+    #title {
+        text-align: center;
+    }
+
+
+    .img1 {
+        position: static;
+        width: 60%;
+        transform: rotate(0);
+    }
+}
+
+#cta {
+    background-color: #ff4c68;
+    font-family: Montserrat-Black;
+    padding: 7% 15%;
+    text-align: center;
+    color: #fff;
+
+}
+
+.last-heading {
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+
+#footer {
+    background-color: #fff;
+    text-align: center;
+    padding: 5% 10% 2%;
+}
+
+.ctc2 {
+    margin: 20px 10px; 
+}
